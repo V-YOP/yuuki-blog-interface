@@ -1,0 +1,27 @@
+{
+  "name": "yuuki-blog-interface",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V-YOP/yuuki-blog-interface.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/V-YOP/yuuki-blog-interface/issues"
+  },
+  "homepage": "https://github.com/V-YOP/yuuki-blog-interface#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "zod": "^3.19.1"
+  }
+}
